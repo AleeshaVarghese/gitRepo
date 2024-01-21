@@ -1,9 +1,8 @@
 package jan14;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
-public class Calculator {
+public class SimpleCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("****Welcome to our Calculator");
