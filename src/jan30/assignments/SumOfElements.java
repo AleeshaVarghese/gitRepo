@@ -1,4 +1,4 @@
-package jan30;
+package jan30.assignments;
 
 import java.util.Scanner;
 
